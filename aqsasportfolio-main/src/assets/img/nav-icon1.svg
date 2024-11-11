@@ -1,0 +1,10 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24"
+  fill="white"
+>
+  <path d="M12 13.172L2.879 6.586A1 1 0 013 5h18a1 1 0 01.621 1.784L12 13.172z" />
+  <path d="M21 8.83l-8.293 6.414a1 1 0 01-1.414 0L3 8.83V18a1 1 0 001 1h16a1 1 0 001-1V8.83z" />
+</svg>
